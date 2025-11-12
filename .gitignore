@@ -25,3 +25,7 @@ yarn-error.log*
 # Ignore other project directories
 ../../../original/
 ../../../shihonsyugi/
+
+# Environment variables
+.env
+.env.local
